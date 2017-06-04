@@ -9,4 +9,4 @@ exports.google_news_endpoint = "https://news.google.com/news?output=rss";
 
 /** Wit.ai */
 exports.wit_token = process.env.WIT_TOKEN;
-exports.wit_endpoint = 'https://api.wit.ai/message?v=20160720&q=';
+exports.wit_endpoint = 'https://api.wit.ai/message?v=03/06/2017&q=';
